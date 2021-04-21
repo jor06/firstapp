@@ -1,0 +1,16 @@
+body {
+    background-image: url(images/background.jpg);
+    background-size: cover;
+
+}
+
+#mainnavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+    background: #BB342F;
+}
+
+#banner h1 {
+    background-color: #6F9283;
+    font-weight: 200;
+}
